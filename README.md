@@ -1,7 +1,7 @@
 # 💄 Éclat Femme - Loja de Cosméticos
 
 
-![Captura de tela 2025-05-25 160451](https://github.com/user-attachments/assets/1f1c835c-b396-40d6-9825-44026b427fb8)
+![Captura de tela 2025-05-25 160351](https://github.com/user-attachments/assets/ca0df817-3402-4f5a-928c-1775e484445e)
 
 
 
