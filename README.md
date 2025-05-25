@@ -24,9 +24,9 @@
 
 O design do site segue uma estética feminina com tons rosados, fontes suaves e disposição organizada dos elementos. A identidade visual transmite sofisticação e cuidado com a experiência do usuário.
 
-## 💻 Demonstração
+## Desenvolvido por Lais Ribeiro 🧩
 
-![ video 2025-05-25 160451] 
+
 
 
 
