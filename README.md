@@ -24,6 +24,11 @@
 
 O design do site segue uma estética feminina com tons rosados, fontes suaves e disposição organizada dos elementos. A identidade visual transmite sofisticação e cuidado com a experiência do usuário.
 
+## 🌐 Acesse o Site
+
+[Clique aqui para acessar o projeto no Netlify](https://eclatfemme.netlify.app/)
+
+
 ## Desenvolvido por Lais Ribeiro 🧩
 
 
