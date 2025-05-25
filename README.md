@@ -1,5 +1,10 @@
 # 💄 Éclat Femme - Loja de Cosméticos
 
+
+![Captura de tela 2025-05-25 160451](https://github.com/user-attachments/assets/1f1c835c-b396-40d6-9825-44026b427fb8)
+
+
+
 Éclat Femme é uma aplicação web de e-commerce voltada para a venda de produtos de beleza e cuidados pessoais. Com um design moderno e interface amigável, o site proporciona uma navegação intuitiva para que os usuários possam explorar facilmente categorias como maquiagem, perfumes, cuidados com a pele e cabelo.
 
 ## 🌐 Tecnologias Utilizadas
@@ -21,7 +26,7 @@ O design do site segue uma estética feminina com tons rosados, fontes suaves e 
 
 ## 💻 Demonstração
 
-
+![ video 2025-05-25 160451] 
 
 
 
